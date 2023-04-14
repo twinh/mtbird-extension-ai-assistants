@@ -22,6 +22,7 @@
     "link": "yarn link @mtbird/core & yarn link @mtbird/shared & yarn link @mtbird/cli & yarn link @mtbird/ui"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.0.1",
     "@mtbird/ui": "^0.0.3-beta.46",
     "lodash": "^4.17.21"
   },
